@@ -1,5 +1,8 @@
 Buzzfeed Clone in TypeScript + REST API Database + Node.js!
 
 
-https://user-images.githubusercontent.com/94923080/206001218-cdd8f0b9-fbe9-43f4-ad3f-a1ba700eff3e.mp4
+
+https://user-images.githubusercontent.com/94923080/206001370-5269079d-8e3e-4f4f-afc2-b5a45a94b5a9.mp4
+
+
 
